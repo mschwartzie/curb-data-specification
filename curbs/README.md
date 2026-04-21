@@ -564,7 +564,8 @@ descriptive/specific value when possible.
 
 Vehicle types
 - `bicycle`
-- `bus`
+- `transit bus`
+- `tour bus`
 - `cargo_bicycle`
 - `car`
 - `moped`
